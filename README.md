@@ -37,5 +37,6 @@ This script automates the validation steps for ODF (OpenShift Data Foundation), 
 ## How to Use
 1. Clone the repository:
    
-   git clone <repository-url>
-   cd <repository-directory>
+  -  git clone https://github.com/Arpanchak/ODF_Details_Validation.git
+  -  cd ODF_Details_Validation
+  -  bash cluster_validation.sh
