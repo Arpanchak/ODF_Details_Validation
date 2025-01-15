@@ -35,7 +35,7 @@ This script automates the validation steps for ODF (OpenShift Data Foundation), 
 - Confirm that the StorageCluster is in a **Ready** state.
 ---
 ## How to Use
-1. Clone the repository:
+ Clone the repository:
   - git clone https://github.com/Arpanchak/ODF_Details_Validation.git
 
   - cd ODF_Details_Validation
